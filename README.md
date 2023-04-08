@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [github.com/njoromyke](github.com/njoromyke)
+- 👨‍💻 All of my projects are available at [https://michael-njoroge.vercel.app/]([github.com/njoromyke](https://michael-njoroge.vercel.app/))
 
 - 💬 Ask me about **react, node and mongodb**
 
