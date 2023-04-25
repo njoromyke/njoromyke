@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://michael-njoroge.vercel.app/]([[github.com/njoromyke](https://michael-njoroge.vercel.app/)](https://michael-njoroge.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://michael-njoroge.vercel.app/]([https://michael-njoroge.vercel.app](https://michael-njoroge.vercel.app/))
 
 - 💬 Ask me about **react, node and mongodb**
 
